@@ -12,12 +12,12 @@ Under the covid-19 situation, the laboratory decided to record entry and exit ti
 
 1. Please fill "./ic_touch_logger/.env" file
     This program is developed with the intention of running on a raspberrypi. Please prepare various information of RDB on raspberry pi and API key to register information to Google calender.
-    
+
 2. Run main.py
 ## References
 * [大学生協FeliCaの仕様](https://gist.github.com/oboenikui/ee9fb0cb07a6690c410b872f64345120)
 
 ## TODO
 - [x] : Ability to post to Google calender
-- [] : Ability to post to slack
-- [] : Error handling
+- [ ] : Ability to post to slack
+- [ ] : Error handling
